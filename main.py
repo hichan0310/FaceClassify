@@ -9,10 +9,10 @@ import torch.optim as optim
 from torch import FloatTensor as tensor
 import torch.nn.functional as F
 
-happynum =  8   +2
-sadnum   =  8   +0
-angrynum =  8   +0
-sosonum  =  4   +2
+happynum =  28
+sadnum   =  24
+angrynum =  32
+sosonum  =  13
 
 
 totensor = transform.ToTensor()
