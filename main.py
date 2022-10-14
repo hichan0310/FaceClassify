@@ -9,7 +9,7 @@ import torch.optim as optim
 from torch import FloatTensor as tensor
 import torch.nn.functional as F
 
-happynum =  8   +2  +
+happynum =  8   +2
 sadnum   =  8   +0
 angrynum =  8   +0
 sosonum  =  4   +2
